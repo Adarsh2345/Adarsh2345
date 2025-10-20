@@ -1,82 +1,84 @@
-# Hi there 👋, I'm Adarsh J  
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD4kN1xU9vMzO3e/giphy.gif" width="200"/>
+</p>
 
-🚀 Backend & Systems Developer | 🤖 AI/ML Enthusiast | 🔬 RAG & Security Specialist  
-
-I focus on building **scalable, secure backends**, **AI-powered solutions**, and **high-performance systems**.  
-From designing **cryptographic systems in C++** to **RAG pipelines with OpenAI**, I enjoy solving complex problems efficiently.  
-
----
-
-## 🏫 Education  
-**B.E. Computer Science & Engineering**  
-*Kumaraguru College of Technology (2023–2027)* | **CGPA: 8.5**  
-
----
-
-## 💻 Technical Experience  
-
-**Software Development Intern – Protecto** *(May 2025 – Aug 2025)*  
-- 🧩 Developed a **semantic RAG system** with OpenAI + TiDB (triple extraction + SQL-based vector search).  
-- 🔐 Built a **multibyte-aware Feistel cipher in C++** with SHA-256 round keys + Base62 encoding.  
-- 📑 Engineered a **scalable PII/PHI redaction pipeline** for SharePoint, OneDrive & S3.  
-- ⚡ Integrated Microsoft Graph API + custom REST APIs into a **config-driven backend** (async workflows, retries, archival) → reduced manual effort by **90%**.  
-
-**Amazon ML Summer School** *(Aug – Sep 2025)*  
-- Selected from **17,500+ participants (Top 3000)**.  
-- Hands-on with **supervised, unsupervised & deep learning** using Scikit-learn, Pandas, NumPy.  
-- Built & evaluated ML models at scale.  
+<h1 align="center">Hi there 👋, I'm Adarsh J</h1>
+<p align="center">
+  🚀 <b>Backend & Systems Developer</b> | 🤖 <b>AI/ML Enthusiast</b> | 🔬 <b>RAG & Security Specialist</b>
+</p>
+<p align="center">
+  Building <b>scalable backends</b>, <b>AI-powered solutions</b> & <b>high-performance systems</b>.<br>
+  From 🔐 <b>C++ cryptography</b> to 🤖 <b>OpenAI RAG pipelines</b>, I enjoy turning complex problems into elegant solutions.
+</p>
 
 ---
 
-## 🚀 Projects  
-
-### 🩺 Machine Learning Projects  
-**Python | Scikit-learn | Pandas | XGBoost**  
-- ❤️ **Heart Disease Classification** – Logistic Regression, Random Forest, XGBoost → feature scaling + cross-validation.  
-- 🏡 **California Housing Prediction** – Reduced RMSE by **15%** with feature importance & regression models.  
-- 🚜 **Bulldozer Price Prediction** – Improved accuracy **18%** via feature engineering + ensembling.  
-
-### 🐶 Dog Breed Identification (Computer Vision)  
-**Python | TensorFlow | OpenCV | ResNet50**  
-- Built CNN + Transfer Learning → **92% accuracy** on Kaggle dataset (20k+ images).  
-- Real-time inference pipeline with **OpenCV** for instant predictions.  
-- Optimized training → **25% faster & less overfitting**.  
+<h2 align="center">🌟 My GitHub Universe</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh2345&show_icons=true&theme=tokyonight" width="32%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh2345&theme=tokyonight" width="32%"/>
+  <img src="https://img.shields.io/github/issues-pr-closed-raw/Adarsh2345?color=success&label=PRs%20Merged" width="32%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh2345&layout=compact&theme=tokyonight" width="49%"/>
+</p>
 
 ---
 
-## 🛠️ Technical Skills  
-
-**Languages:** Java, Python, C++  
-**Backend & Systems:** Node.js, Express.js, SQL, TiDB, REST APIs, System Design, Unix/Linux  
-**ML & LLMs:** OpenAI API, Hugging Face, Transformers (BERT/GPT), LangChain, Scikit-learn, NLTK, SentenceTransformers, RAG  
-**Cloud & Tools:** Microsoft Graph API, Socket.io, Git, MSAL  
-
----
-
-## 🏆 Achievements  
-- 🥇 **Top 50 Nationwide** – Hack for Impact (IIIT Delhi)  
-- 🎯 **Finalist** – HappyFox Hackathon 2025 (Top 35/100+ teams)  
-- 🎓 **Mahatma Gandhi Merit Scholarship** (2 consecutive years)  
-- 💻 Solved **100+ DSA problems** across LeetCode, GFG, CodeChef  
-- 📢 Organized a **MERN workshop** as Junior Content & Comms Lead at **GDG**  
-
----
-
-## 📊 GitHub Stats  
-
-![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adarsh2345&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adarsh2345&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh2345&layout=compact&theme=tokyonight)  
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HuggingFace-FB8C00?logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TiDB-5C3EE8?logo=tidb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MSGraph-0078D6?logo=microsoft&logoColor=white"/>
+</p>
 
 ---
 
-## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/-Adarsh%20J-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  
-[![GitHub](https://img.shields.io/badge/-Adarsh2345-black?logo=github&logoColor=white)](https://github.com/Adarsh2345)  
-📧 **Email:** [Adarsh.Jegan@gmail.com](mailto:Adarsh.Jegan@gmail.com)  
-📱 **Phone:** +91 8807810563  
+<h2 align="center">⚡ Projects & Highlights</h2>
+<p align="center">
+  <b>AI & ML:</b><br>
+  🐶 Dog Breed Identifier – CNN + Transfer Learning (92% accuracy)<br>
+  🏡 California Housing Prediction – Feature importance & RMSE optimization<br>
+  ❤️ Heart Disease Classifier – Logistic Regression, Random Forest, XGBoost<br><br>
+  
+  <b>Systems & Security:</b><br>
+  🔐 Feistel Cipher – Multibyte-aware C++ encryption<br>
+  📑 PII/PHI Redactor – SharePoint, OneDrive, S3 pipeline<br>
+  ⚡ Async Backends – Config-driven workflows & Microsoft Graph integration
+</p>
 
 ---
-✨ *“Building backends and systems that bridge AI, security, and scale.”*  
 
+<h2 align="center">🌐 Connect with Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Adarsh2345">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:Adarsh.Jegan@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+✨ <i>“Building systems that bridge AI, security, and scale – one commit at a time.”</i>
+</p>
