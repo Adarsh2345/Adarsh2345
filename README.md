@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4kN1xU9vMzO3e/giphy.gif" width="200"/>
-</p>
 
 <h1 align="center">Hi there 👋, I'm Adarsh J</h1>
 <p align="center">
@@ -17,7 +14,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adarsh2345&show_icons=true&theme=tokyonight" width="32%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh2345&theme=tokyonight" width="32%"/>
-  <img src="https://img.shields.io/github/issues-pr-closed-raw/Adarsh2345?color=success&label=PRs%20Merged" width="32%"/>
+  <img src="https://img.shields.io/github/issues-pr-merged/Adarsh2345?color=success&label=PRs%20Merged" width="32%"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh2345&layout=compact&theme=tokyonight" width="49%"/>
@@ -50,7 +47,7 @@
 ---
 
 <h2 align="center">⚡ Projects & Highlights</h2>
-<p align="center">
+<p>
   <b>AI & ML:</b><br>
   🐶 Dog Breed Identifier – CNN + Transfer Learning (92% accuracy)<br>
   🏡 California Housing Prediction – Feature importance & RMSE optimization<br>
