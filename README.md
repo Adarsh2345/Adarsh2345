@@ -63,7 +63,7 @@
 
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/adarsh-j-aa632a290/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Adarsh2345">
