@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adarsh J 👋</h1>
 
 <p align="center">
-  <b>Pre-final year CSE @ Kumaraguru College of Technology</b><br>
+  <b>Final year CSE @ Kumaraguru College of Technology</b><br>
   Building production-grade <b>LLM systems</b>, <b>agentic AI pipelines</b> & <b>secure backend infrastructure</b>
 </p>
 
