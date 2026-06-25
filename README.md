@@ -9,9 +9,7 @@
   <a href="https://www.linkedin.com/in/adarsh-j-aa632a290/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Adarsh2345">
-    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white"/>
-  </a>
+ 
   <a href="mailto:Adarsh.Jegan@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white"/>
   </a>
