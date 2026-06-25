@@ -39,9 +39,9 @@
 - End-to-end AI pipeline: transcript ingestion → quality filtering → LLM analysis → structured report generation
 - Full-stack with JWT-secured REST APIs, React/TypeScript dashboard, and Dockerised deployment
 
-**[Zero-Trust Adaptive API Gateway](https://github.com/Adarsh2345)** | Python · FastAPI · SQLite · LLMs
-- Pluggable policy engine evaluating time-window, device-fingerprint, and geolocation rules before requests reach business logic
-- Real-time impossible travel detection and auto-blocking of compromised tokens with MFA challenge triggers
+**[PrepAI — AI Mock Interviewer](https://github.com/Adarsh2345/PrepAI---AI-mock-interviewer)** | Python · asyncio · faster-whisper · Piper TTS · WebSockets
+- Built a real-time voice interview pipeline from scratch: concurrent LLM streaming + TTS synthesis with barge-in cancellation, VAD-based endpointing, and echo suppression
+- Async per-answer scoring pipeline evaluates Communication, Structure, Content Depth, and Relevance while the interview continues — no waiting between questions
 
 ---
 
