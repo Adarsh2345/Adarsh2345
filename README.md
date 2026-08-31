@@ -1,97 +1,86 @@
-<h1 align="center">Hi, I'm Adarsh J 👋</h1>
+# Adarsh J
 
-<p align="center">
-  <b>Final year CSE @ Kumaraguru College of Technology</b><br>
-  Building production-grade <b>LLM systems</b>, <b>agentic AI pipelines</b> & <b>secure backend infrastructure</b>
-</p>
+**Full-stack and AI engineering** — React and TypeScript on the front, Node/Express and FastAPI behind it, plus a year of shipping LLM and agent systems at two companies. Final-year CS at Kumaraguru College of Technology, graduating 2027.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/adarsh-j-aa632a290/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
-  </a>
- 
-  <a href="mailto:Adarsh.Jegan@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
-</p>
+`HPE Career Preview '26` · `Amazon ML Summer School — top 3,000 of 17,500` · `Top 50 nationwide, Hack for Impact @ IIIT Delhi`
+
+📧 [adarsh.jegan@gmail.com](mailto:adarsh.jegan@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/adarsh-j-aa632a290/) · 📄 [Resume](https://drive.google.com/file/d/1LiwY2ltc-IN3QFrE2a3nFoKzSZkJ_tso/view?usp=sharing)
 
 ---
 
-## 🏢 Experience
+## What I've built
 
-**Heuristic Labs** — AI/ML Intern *(Sep 2025 – Jun 2026)*
-- Built a WhatsApp AI assistant with long-term memory using Qdrant + Supabase, reducing hallucinations and automating real-estate query handling at scale
-- Engineered an LLM-powered accounts payable audit system that parses vendor invoices and flags pricing breaches and financial discrepancies automatically
+### ✍️ [WriteAway — Full-Stack Blog Platform](https://github.com/Adarsh2345/WriteAway---MERN-Stack-Application)
 
-**Protecto** — Software Development Intern *(May 2025 – Aug 2025)*
-- Built a semantic RAG system with OpenAI + TiDB for natural language querying over structured data using SQL-based vector search
-- Engineered a scalable PII/PHI document redaction pipeline across SharePoint, OneDrive, and Amazon S3 via Microsoft Graph API with async config-driven workflows
-- Built a multibyte-aware Feistel cipher in C++ (SHA-256 round keys, Base62 encoding) for format-preserving encryption
+Built solo, front to back. React front end, session-based auth, MongoDB/Mongoose modeling, Cloudinary uploads. REST CRUD with ownership checks on every write, plus full-text search, tag filtering and pagination.
 
-**Amazon ML Summer School** — Selected Participant *(Aug – Sep 2025)*
-- Top 3,000 of 17,500 applicants — implemented supervised, unsupervised, and deep learning algorithms in Python
+Auth, authorization and search are covered by a Vitest + Supertest suite, so broken routes surface before deploy rather than after.
+
+`TypeScript` · `React` · `Node.js` · `Express` · `MongoDB`
 
 ---
 
-## 🚀 Projects
+### 🤖 [Multi-Agent Customer Support System](https://github.com/Adarsh2345/Multi-Agent-Customer-Support)
 
-**[Revenue Insight – AI Sales Intelligence Platform](https://github.com/Adarsh2345)** | FastAPI · React · TypeScript · Supabase
-- End-to-end AI pipeline: transcript ingestion → quality filtering → LLM analysis → structured report generation
-- Full-stack with JWT-secured REST APIs, React/TypeScript dashboard, and Dockerised deployment
+Triage → Resolver → Escalation, with conditional routing and RAG over Qdrant. When resolver confidence drops below threshold it hands off to a human via Supabase and Slack rather than guessing — which is the whole point.
 
-**[PrepAI — AI Mock Interviewer](https://github.com/Adarsh2345/PrepAI---AI-mock-interviewer)** | Python · asyncio · faster-whisper · Piper TTS · WebSockets
-- Built a real-time voice interview pipeline from scratch: concurrent LLM streaming + TTS synthesis with barge-in cancellation, VAD-based endpointing, and echo suppression
-- Async per-answer scoring pipeline evaluates Communication, Structure, Content Depth, and Relevance while the interview continues — no waiting between questions
+Retrieval is scored with RAGAS on faithfulness, context precision/recall and answer relevancy. The React dashboard renders every routing decision as it happens.
+
+`FastAPI` · `LangGraph` · `Qdrant` · `Supabase` · `React`
 
 ---
 
-## 🛠️ Tech Stack
+### 🎙️ [PrepAI — Real-time AI Mock Interviewer](https://github.com/Adarsh2345/PrepAI---AI-mock-interviewer)
 
-**LLMs & AI**
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FB8C00?logo=huggingface&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG%20Pipelines-6C3483?logoColor=white)
-![Qdrant](https://img.shields.io/badge/-Qdrant-DC382D?logoColor=white)
+Voice interview loop built from scratch — no orchestration framework. Concurrent LLM streaming and TTS synthesis with barge-in cancellation, VAD-based endpointing, and echo suppression.
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+The part I'm most pleased with: scoring runs per answer in the background while the next question is already being asked, so there's no dead air.
 
-**Backend & Databases**
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![TiDB](https://img.shields.io/badge/-TiDB-5C3EE8?logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
-**ML & Data**
-![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![BERT/GPT](https://img.shields.io/badge/-Transformers-FF6F00?logo=huggingface&logoColor=white)
+`Python` · `asyncio` · `faster-whisper` · `Piper TTS` · `WebSockets`
 
 ---
 
-## 🏆 Achievements
+## Where I've worked
 
-- 🥇 **Top 50 nationwide** — Hack for Impact, IIIT Delhi
-- 🎓 **Mahatma Gandhi Merit Scholarship** — 3 consecutive years
-- 💻 **250+ DSA problems** solved across LeetCode, GFG, and CodeChef
+**Hewlett Packard Enterprise** · Career Preview Program · Feb–Jul 2026
+
+Digital twin of HPE cloud infrastructure for testing what-if network and compute changes without touching production.
+Wired natural-language operator input into live telemetry with automated constraint validation.
+
+**Heuristic Labs** · AI/ML Intern · Sep 2025–Jun 2026
+
+WhatsApp assistant with long-term memory on Qdrant + Supabase, handling routine real-estate queries end to end. 
+LLM-based accounts-payable audit service that flags pricing and freight discrepancies across vendor invoices.
+
+**Protecto** · Software Development Intern · May–Aug 2025
+Async PII/PHI redaction pipeline across SharePoint, OneDrive and S3 via Microsoft Graph, config-driven enough to replace a manual review step.
+Semantic RAG layer on OpenAI + TiDB answering plain-English questions through SQL-based vector search.
+
+**Amazon ML Summer School** · Aug–Sep 2025 · selected from 17,500 applicants
+Coached by top Amazon scientists on Supervised, unsupervised and deep learning algorithms in Python.
+
+Full detail in the [resume](https://drive.google.com/file/d/1LiwY2ltc-IN3QFrE2a3nFoKzSZkJ_tso/view?usp=sharing).
 
 ---
 
-## 📊 GitHub Stats
+## Tools I reach for
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh2345&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh2345&theme=tokyonight" width="48%"/>
-</p>
+**Languages** TypeScript · JavaScript · Python · Java · SQL
+
+**Frontend** React · HTML/CSS · EJS · real-time dashboards
+
+**Backend** Node/Express · FastAPI · REST · WebSockets · asyncio · session auth
+
+**Data** MongoDB & Mongoose · Supabase · Qdrant · TiDB · vector search
+
+**AI & LLMs** OpenAI API · LangGraph · LangChain · RAG · RAGAS · scikit-learn · NumPy · pandas
+
+**Tooling** Docker · Git · CI/CD · Vitest · Supertest · AWS S3 · Cloudinary · Microsoft Graph API · Slack API
 
 ---
 
-<p align="center">
-  <i>Open to 6-month internship opportunities in AI Engineering / LLM Systems / Backend Infrastructure from July 2026</i>
-</p>
+250+ DSA problems in Java · 
+CGPA 8.57/10 · 
+Mahatma Gandhi Merit Scholarship, three years running
+
+Graduating 2027, open to full-stack and AI engineering roles. Feel free to reach out over email.
